@@ -32,3 +32,4 @@ console.log("Page loaded");
 
 window.onload = hello; 
 // wait for the page to load before running init
+// new message
