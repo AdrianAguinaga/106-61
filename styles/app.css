@@ -3,6 +3,12 @@ main {
     height: 100vh;
 }
 
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
 #list {
     flex: 2;
     background-color: #f0f8ff; /* A very light, almost white blue */
